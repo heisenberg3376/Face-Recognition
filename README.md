@@ -13,7 +13,6 @@ So, wherever khabib is found in the image, his face is surrounded by a rectangle
 ![un jpg 17-10-2023 17_58_33](https://github.com/heisenberg3376/Face-Recognition/assets/125650236/7a995457-9246-46d8-a28c-5f751df1b0e5)
 ![unknown-1 jpg 17-10-2023 17_17_13](https://github.com/heisenberg3376/Face-Recognition/assets/125650236/fb605606-9251-4241-a9da-ae1ae7abdb64)
 ![opyy](https://github.com/heisenberg3376/Face-Recognition/assets/125650236/d5cc7c7f-b5fe-4875-a47b-ced8dab40be9)
-![un jpg 17-10-2023 17_58_33](https://github.com/heisenberg3376/Face-Recognition/assets/125650236/ede69fa1-dc4d-4794-be94-36b928e2f442)
 ![unknown-1 webp 17-10-2023 17_04_53](https://github.com/heisenberg3376/Face-Recognition/assets/125650236/56b4e0d8-21cc-43c3-a660-650aafdf60a4)
 ![ukn jpg 17-10-2023 17_49_40](https://github.com/heisenberg3376/Face-Recognition/assets/125650236/c310927a-e941-40b7-b7fa-58adc368aeaf)
 
